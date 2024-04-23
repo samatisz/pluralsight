@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be42268c-e9a9-4021-a938-a8461bc2e142" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../command-line/first-java-app/target/test-classes/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/AddressBuilder/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/AddressBuilder/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/AddressBuilder/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/AddressBuilder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/AddressBuilder/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/AddressBuilder/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/AddressBuilder/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/CellPhoneService/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/CellPhoneService/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/CellPhoneService/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/CellPhoneService/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/CellPhoneService/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/CellPhoneService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/CellPhoneService/src/main/java/com/pluralsight/CellPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/CellPhoneService/src/main/java/com/pluralsight/CellPhoneApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/FullNameParser/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/FullNameParser/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/FullNameParser/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/FullNameParser/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/FullNameParser/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/FullNameParser/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/FullNameParser/src/main/java/com/pluralsight/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/NameGenerator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/NameGenerator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/NameGenerator/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/NameGenerator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/NameGenerator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/NameGenerator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/NameGenerator/src/main/java/com/pluralsight/FullNameApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/TheaterReservations/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/TheaterReservations/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/TheaterReservations/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/TheaterReservations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/TheaterReservations/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/TheaterReservations/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workbook-2/TheaterReservations/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BedtimeStories/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BedtimeStories/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BedtimeStories/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BedtimeStories/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BedtimeStories/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BedtimeStories/Goldilocks.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BedtimeStories/HanselAndGretel.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BedtimeStories/MaryAndHerLamb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BedtimeStories/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BedtimeStories/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousQuotes/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousQuotes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousQuotes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousQuotes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousQuotes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousQuotes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousQuotes/src/main/java/com/pluralsight/Quotes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/FullNameGenerator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/FullNameGenerator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/FullNameGenerator/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/FullNameGenerator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/FullNameGenerator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/FullNameGenerator/src/main/java/com/pluralsight/FullNameApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/intro-to-conditiond/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/intro-to-conditiond/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/intro-to-conditiond/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/intro-to-conditiond/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/intro-to-conditiond/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/intro-to-conditiond/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/intro-to-conditiond/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/intro-to-conditiond/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/intro-to-conditiond/src/main/java/com/pluralsight/main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/intro-to-methods/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/intro-to-methods/src/main/java/com/pluralsight/main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/reinforcement-lab/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/reinforcement-lab/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/reinforcement-lab/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/reinforcement-lab/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/reinforcement-lab/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/reinforcement-lab/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/reinforcement-lab/src/main/java/com/pluralsight/MyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/stringandloop-practice/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/stringandloop-practice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/stringandloop-practice/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/stringandloop-practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/stringandloop-practice/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/stringandloop-practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/stringandloop-practice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/stringandloop-practice/src/main/java/com/pluralsight/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../workbook-1/ShoppingListProject/src/main/java/com/pluralsight/RandomPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../workbook-1/ShoppingListProject/src/main/java/com/pluralsight/RandomPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../workbook-1/ShoppingListProject/src/main/java/com/pluralsight/ShoppingList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../workbook-1/ShoppingListProject/src/main/java/com/pluralsight/ShoppingList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../practice-projects/intro-to-methods/src/main/java/com/pluralsight/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../practice-projects/intro-to-methods/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2fSvUktbHaHdbAkl8g3lHZNw0as" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.PayRoll.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/samat/Desktop/neighborhood-library",
+    "onboarding.tips.debug.path": "C:/Users/samat/Desktop/yearup-spring-section-6-2024/pluralsight/java-development/workbook-3/PayRollCalculator/src/main/java/com/pluralsight/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\samat\Desktop\Pluralsight\java-development\workbook-3\PayRollCalculator" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\samat\Desktop\yearup-spring-section-6-2024\pluralsight\java-development\workbook-3\PayRollCalculator" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be42268c-e9a9-4021-a938-a8461bc2e142" name="Changes" comment="" />
+      <created>1713807312931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713807312931</updated>
+    </task>
+    <servers />
+  </component>
+</project>

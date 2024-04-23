@@ -11,10 +11,7 @@ public class Main {
         displayName();
         displayFruits();
 
-        /*
-        now it is being called
-        it can be reused
-         */
+       // now it is being called - it can be reused
 
     }
     //this would be making a method outside of main
@@ -28,4 +25,5 @@ public class Main {
         System.out.println("Grapes");
         System.out.println("Bananas");
     }
+
 }
