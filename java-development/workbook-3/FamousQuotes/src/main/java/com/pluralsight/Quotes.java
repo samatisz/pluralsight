@@ -18,7 +18,7 @@ public class Quotes {
 
         Scanner quoteScanner = new Scanner(System.in);
 
-        System.out.println("Please select a number from 1-10 to display a quote.");
+        System.out.println("Please select a number from 1-9 to display a quote.");
         int input = quoteScanner.nextInt();
 
         System.out.println(quotes[input]);

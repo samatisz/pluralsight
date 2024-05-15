@@ -1,0 +1,3 @@
+a. Launching the application
+b. Searching for a term
+c. Exiting the application
