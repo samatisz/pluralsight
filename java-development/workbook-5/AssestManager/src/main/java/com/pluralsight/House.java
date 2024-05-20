@@ -2,7 +2,7 @@ package com.pluralsight;
 
 public class House extends Asset {
     private String address;
-    private int condition; //1 - excellent, 2 - good, 3 - fair, 4 - poor
+    private int condition;
     private int squareFoot;
     private int lotSize;
 
@@ -48,13 +48,23 @@ public class House extends Asset {
 
     @Override
     public double getValue() {
-        return originalCost;
-        /*180.00 per sq ft (1)
-        130.00 per sq ft (2)
-        90.00 per sq ft (3)
-        80.00 per sq ft (4)
-        additional .25 per sq ft of lot size
-         */
+        double value = 0;
 
+        switch (condition) {
+            case 1:
+                value = 180.00 * squareFoot;
+                break;
+            case 2:
+                value = 130.00 * squareFoot;
+                break;
+            case 3:
+                value = 90.00 * squareFoot;
+                break;
+            case 4:
+                value = 80.00 * squareFoot;
+                break;
+        }
+        value += 0.25 * lotSize;
+        return value;
     }
 }

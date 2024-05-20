@@ -1,6 +1,8 @@
 package com.pluralsight;
 
-public class Vehicle extends Asset{
+import java.time.LocalDate;
+
+public class Vehicle extends Asset {
     private String makeModel;
     private int year;
     private int odometer;
@@ -38,17 +40,31 @@ public class Vehicle extends Asset{
 
     @Override
     public double getValue() {
-        //if loop,, but how with year??????
+        int currentYear = LocalDate.now().getYear();
+        int age = currentYear - year;
 
+        double value = 0.0;
+        if (age <= 3) {
+            for (int i = 0; i < age; i++) {
+                value = 0.97 * getOriginalCost();
+            }
+        } else if (age <= 6) {
+            for (int i = 0; i < age; i++) {
+                value = 0.94 * getOriginalCost();
+            }
+        } else if (age <= 10) {
+            for (int i = 0; i < age; i++) {
+                value = 0.92 * getOriginalCost();
+            }
+        } else {
+            value = getOriginalCost() - 1000.00;
+        }
 
-        return originalCost; //delete this
-        /* value determined by:
-        0-3 years old -3% reduced value of cost per year
-        4-6 years old -6% reduced value of cost per year
-        7-10 years old -8% reduced value of cost per year
-        iver 10 years old -$1000.00
-        MINUS reduce final value by 25% if over 100,000 miles - UNLESS it is Honda or Toyota
-         */
+        if (!(makeModel.contains("Honda") || makeModel.contains("Toyota"))
+                && odometer > 100000) {
+            value *= 0.75;
+        }
+
+        return value;
     }
-
 }
