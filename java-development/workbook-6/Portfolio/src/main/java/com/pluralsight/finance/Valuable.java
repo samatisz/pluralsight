@@ -1,5 +1,5 @@
 package com.pluralsight.finance;
 
-public interface iValuable {
+public interface Valuable {
     double getValue();
 }
