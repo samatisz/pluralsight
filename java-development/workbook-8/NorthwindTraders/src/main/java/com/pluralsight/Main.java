@@ -27,13 +27,13 @@ public class Main {
         while (results.next()) {
             System.out.println("。。。。。。。。。。。。。。");
             String productID = results.getString("ProductID");
-            System.out.println(productID);
+            System.out.println("Product ID: " + productID);
             String productName = results.getString("ProductName");
-            System.out.println(productName);
+            System.out.println("Product Name: " + productName);
             String unitPrice = results.getString("UnitPrice");
-            System.out.println(unitPrice);
+            System.out.println("Unit Price: " + unitPrice);
             String unitsInStock = results.getString("UnitsInStock");
-            System.out.println(unitsInStock);
+            System.out.println("Units In Stock: " + unitsInStock);
         }
 
         // 3. Close the connection
