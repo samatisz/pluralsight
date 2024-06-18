@@ -31,9 +31,9 @@ public class JDBCTransactionDAO implements ITransactionDAO {
              PreparedStatement createTableStatement = connection.prepareStatement(
                      //create table if it is not there
                      """
-                             CREATE TABLE IF NOT EXISTS transactions 
+                             CREATE TABLE IF NOT EXISTS transactions (
                              transaction_id int PRIMARY KEY,
-                             amount decimal(10,2) NOT NULL, 
+                             amount decimal(10,2) NOT NULL,
                              vendor varchar(250) NOT NULL
                              );
                              """
